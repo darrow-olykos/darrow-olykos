@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @darrow-olykos
+- 👀 I’m interested in first principles of software engineering
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me https://twitter.com/darrow_olykos
